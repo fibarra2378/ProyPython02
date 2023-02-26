@@ -1,0 +1,3 @@
+import Hola
+
+Hola.hola()
